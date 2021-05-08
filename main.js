@@ -1,0 +1,5 @@
+function alert()
+document.alert()
+{TheTajMahalwasconstructedunderthereignandguidanceofthefamousMughalEmperorShahJahan.Thismonumentwasbuiltasonodetohis
+    beautifulwifeMumtazmahalandthelovebetweenthem.In1983,UNESCOdeclaresTajMahalasaHeritageSite.Thestructureofthetomb
+    ismadefromthefinestwhitemarble}
